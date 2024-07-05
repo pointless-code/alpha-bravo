@@ -2,7 +2,7 @@
 
 ## About AlphaBravo
 
-Transform your text into the cool NATO phonetic alphabet
+Transform your text into the cool NATO phonetic alphabet!
 
 ## Pull from docker
 
